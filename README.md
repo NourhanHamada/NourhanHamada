@@ -11,7 +11,7 @@
 <h2>About Me</h2>
 <p align="justify">I am a Flutter developer 👩🏻‍💻</p>
 <p align="justify">I started in 2021 with web development then I shift to Mobile development with Flutter and Dart language</p>
-<p align="justify">During this time I learn Swift to develope Ios Applications too Cuz I am currently obsessed with Mobile development</p>
+<p align="justify">During this time I learn Swift to develope Ios Applications too</p>
 
 <h2>Languages and Tools</h2>
 
