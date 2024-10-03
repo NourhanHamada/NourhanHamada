@@ -2,27 +2,42 @@
 
 
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nourhan....;Nice+to+meet+you!🤍&center=true&size=30">
   </a>
-</h1>
+</div>
 
-<h2>About Me</h2>
-<p align="justify">I am a Flutter developer 👩🏻‍💻</p>
-<p align="justify">I started in 2021 with web development then I shift to Mobile development with Flutter and Dart language</p>
-<p align="justify">During this time I learn Swift to develope Ios Applications too</p>
+<h3>About Me 👩🏻‍💻</h3>
+I am a Flutter developer.
+
+I began my development journey with web technologies in 2021 and quickly transitioned to mobile development using Flutter and Dart. I have developed multiple mobile applications, including:
+- Mostwak App
+- Rtb App
+- Fixo App
+
+I'm passionate about **clean code principles** and continuously learning *new technologies*.
+
+
+## Future Goals 🚀
+- Deep dive into iOS native development using Swift.
+- Expand expertise in state management libraries in Flutter.
 
 <h2>Languages and Tools</h2>
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,github,discord,)
-
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,github,)
 
 
 
 
 
 <!--
+
+![GitHub followers](https://img.shields.io/github/followers/NourhanHamada?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/NourhanHamada?style=social)
+
+
+![GitHub followers](https://img.shields.io/github/followers/NourhanHamada?style=social)
 **NourhanHamada/NourhanHamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,4 +50,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="justify">I am a Flutter developer 👩🏻‍💻</p>
+<p align="justify">I started in 2021 with web development then I shift to Mobile development with Flutter and Dart language</p>
+<p align="justify">During this time I learn Swift to develope Ios Applications too</p> 
 -->
