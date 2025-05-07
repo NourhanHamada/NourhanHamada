@@ -16,10 +16,10 @@ I began my development journey with web technologies in 2021 and quickly transit
 - Rtb App
 - Fixo App
 - Catching Kowa App
-- Istehwath
-- Syria Pay
+- Istehwath Multi vendor App 
+- Syria Pay App
 - EQM Desktop
-- Dw2ni
+- Dw2ni multi vendor App
 
 I'm passionate about **clean code principles** and continuously learning *new technologies*.
 
