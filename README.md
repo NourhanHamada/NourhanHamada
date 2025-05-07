@@ -16,6 +16,9 @@ I began my development journey with web technologies in 2021 and quickly transit
 - Rtb App
 - Fixo App
 - Catching Kowa App
+- Istehwath
+- EQM Desktop
+- Dw2ni
 
 I'm passionate about **clean code principles** and continuously learning *new technologies*.
 
