@@ -17,6 +17,7 @@ I began my development journey with web technologies in 2021 and quickly transit
 - Fixo App
 - Catching Kowa App
 - Istehwath
+- Syria Pay
 - EQM Desktop
 - Dw2ni
 
