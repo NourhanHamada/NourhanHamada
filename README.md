@@ -16,7 +16,8 @@ I began my development journey with web technologies in 2021 and quickly transit
 - Rtb App
 - Fixo App
 - Catching Kowa App
-- Istehwath Multi vendor App 
+- Istehwath Multi vendor App
+- Khayal stations App (360 - VR videos)
 - Syria Pay App
 - EQM Desktop
 - Dw2ni multi vendor App
